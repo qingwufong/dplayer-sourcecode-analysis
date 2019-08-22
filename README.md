@@ -1,2 +1,4 @@
 # dplayer-sourcecode-analysis
-DPlayer播放器源代码分析 —— DPlayer.js source code analysis
+[DPlayer.js](http://dplayer.js.org/zh/guide.html) source code analysis
+
+![](./images/DPlayer.png)
